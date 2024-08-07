@@ -1,0 +1,124 @@
+This is the code for the website.
+
+# Index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Project</title>
+</head>
+<body>
+    <h1>My Recipes</h1>
+    <ul>
+        <li>
+            <a href="recipes/jollof-rice.html">Jollof-rice</a>
+            <img src="recipes/images/jollof_rice.jpeg" alt="jollof rice">
+        </li>
+        <li>
+            <a href="recipes/spaghetti.html">Spaghetti</a>
+            <img src="recipes/images/spaghetti.jpeg" alt="spaghetti">
+        </li>
+        <li>
+            <a href="recipes/noodles.html">Noodles</a>
+            <img src="recipes/images/noodles.jpeg" alt="noodles">
+        </li>
+        <li>
+            <a href="recipes/grilled_chicken.html">Grilled Chicken</a>
+            <img src="https://www.allrecipes.com/thmb/dUoCgWPcIoNAgHZAuPLxWryPOMk=/364x242/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2):format(webp)/8648903_The-Perfect-Grilled-Chicken-Breasts_Dotdash-Meredith-Food-Studios_4x3-64f4be142d564b6f839339a16b6f59a2.jpg" alt="grilled chicken">
+        </li>
+    </ul>
+</body>
+</html>
+
+
+#Spaghetti.html
+<h1>Spaghetti</h1>
+<img src="images/spaghetti.jpeg">
+<h3>Description</h3>
+<p>Follow this steps to prepare your noodles</p>
+<h3>Ingredients</h3>
+<p><div>Spaghetti</div> <div>water</div> <div>carrots</div>
+<div>green peas</div> <div>tomatoes</div> <div>chilli pepper</div></p>
+<h3>Steps Involved</h3>
+<ol>
+    <li>Boil water</li>
+    <li>Add the spaghetti to the boiling water</li>
+    <li>Add the rest of the ingredients in any order</li>
+    <li>Leave to cook for 2-5 mins</li>
+</ol>
+
+#Jollof-rice
+<h1>Jollof Rice</h1>
+<img src="images/jollof_rice.jpeg">
+<h3>Description</h3>
+<p>Follow this steps to prepare your noodles</p>
+<h3>Ingredients</h3>
+<p><div>rice</div> <div>water</div> <div>carrots</div>
+<div>green peas</div> <div>tomatoes</div> <div>chilli pepper</div></p>
+<h3>Steps Involved</h3>
+<ol>
+    <li>Boil water</li>
+    <li>Add the rice to the boiling water</li>
+    <li>Add the rest of the ingredients in any order</li>
+    <li>Leave to cook for 2-5 mins</li>
+</ol>
+
+#grilled chicken
+<h1>Grilled Chicken</h1>
+
+<img src="https://www.allrecipes.com/thmb/dUoCgWPcIoNAgHZAuPLxWryPOMk=/364x242/filters:no_upscale():max_bytes(150000):strip_icc():focal(1999x0:2001x2):format(webp)/8648903_The-Perfect-Grilled-Chicken-Breasts_Dotdash-Meredith-Food-Studios_4x3-64f4be142d564b6f839339a16b6f59a2.jpg" 
+alt="grilled chicken">
+
+<h3>Description</h3>
+
+<p>The best grilled chicken breasts you'll ever make 
+    begin with a basic marinade and end with the best 
+    technique for perfect cooking, complete with 
+    beautifully-executed grill marks</p>
+
+<h3>Ingredients</h3>
+
+<p><div>chicken</div> <div>olive oil</div> <div>mustard</div>
+<div>honey</div> <div>garlic</div> <div>soy sauce</div> <div>onion powder</div>
+<div>ginger</div> <div>oil spray</div>salt</p>
+
+<h3>Steps Involved</h3>
+
+<ol>
+    <li>Trim any excess fat from chicken. Place a piece of plastic or parchment 
+        on top of each chicken breast on a solid,
+         level surface, and pound the thick end of chicken 
+         to flatten to an even thickness.</li>
+
+    <li>Place chicken in a large resealable plastic bag. Add olive oil, Dijon, honey, 
+        soy sauce, lemon juice, garlic, onion powder, 
+        and ginger to the bag.  Press any excess air out of the bag and seal the bag tightly. 
+        Massage chicken around in the bag until marinade is fully incorporated and chicken is well coated. 
+        Refrigerate for at least 4 hours or overnight, turning the bag occasionally.</li>
+
+    <li>Preheat an outdoor grill for high heat, about 400 degrees F (200 degrees C). 
+        Brush the grill grates with oil or coat with cooking spray. </li>
+
+    <li>Place chicken, top side down, on the grill. Sprinkle evenly with salt. Cook, undisturbed, 
+        until chicken easily releases from the grill and has dark brown grill marks, about 3 minutes. 
+        Reduce heat to 350 degrees F (175 degrees C) or medium heat, then flip and cook an additional 5 to 7 minutes or 
+        until chicken has reached an internal temperature of 165 degrees F (73 degrees C). 
+        Remove from heat and let stand 5 to 10 minutes before serving. </li>
+</ol>
+
+#Noodles
+<h1>Noodles</h1>
+<img src="images/noodles.jpeg">
+<h3>Description</h3>
+<p>Follow this steps to prepare your noodles</p>
+<h3>Ingredients</h3>
+<p><div>Noodles</div> <div>water</div> <div>carrots</div>
+<div>green peas</div> <div>tomatoes</div> <div>chilli pepper</div></p>
+<h3>Steps Involved</h3>
+<ol>
+    <li>Boil water</li>
+    <li>Add the noodles to the boiling water</li>
+    <li>Add the rest of the ingredients in any order</li>
+    <li>Leave to cook for 2-5 mins</li>
+</ol>
